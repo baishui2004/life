@@ -1,0 +1,6 @@
+encoding:       utf-8
+#markdown解析器
+markdown:       kramdown
+#markdown:       rdiscount
+
+
